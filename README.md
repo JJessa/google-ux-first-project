@@ -6,6 +6,6 @@ Este repositorio contiene un caso de estudio de UX relacionado con mi certificac
 
 ## Contenido
 
-El caso de estudio completo, incluyendo detalles sobre los objetivos, proceso de diseño y resultados.
+Caso de estudio completo, incluyendo detalles sobre los objetivos, proceso de diseño y resultados.
 
 ---
